@@ -6,3 +6,10 @@
 - Learn about viewChild
 
 ### Testing
+- Learn about fixture, componentInstance, compiled.
+- Learn how to test HTML elements.
+- Learn how to create a new test file.
+- Learn how to test a Service.
+- Learn how to call service and variables.
+- Learn how to create a vi.SpyOn
+- Learn how to use Mock and override a component.
