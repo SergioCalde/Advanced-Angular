@@ -13,3 +13,4 @@
 - Learn how to call service and variables.
 - Learn how to create a vi.SpyOn
 - Learn how to use Mock and override a component.
+- Learn how to check test coverage and create a report.
