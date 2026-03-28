@@ -18,3 +18,7 @@
 - Learn how to check if method is called.
 - Learn how to handle keyboard events.
 - Learn how to test if method is called and pressing the button in test.
+
+
+## 02-pokemon-ssr
+- Create proyecto and basic pages
