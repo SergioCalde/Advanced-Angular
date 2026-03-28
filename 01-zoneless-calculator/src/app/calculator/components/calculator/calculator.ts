@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, computed, HostListener, inject, viewChildren } from '@angular/core';
-import { CalculatorButton } from '../calculator-button/calculator-button';
 import { CalculatorService } from '../../services/calculator';
+import { CalculatorButton } from '../calculator-button/calculator-button';
 
 @Component({
   selector: 'calculator',

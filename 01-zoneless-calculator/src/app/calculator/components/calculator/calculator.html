@@ -5,11 +5,11 @@
   <div class="w-full py-5 px-6 text-6xl text-white font-thin">
 
     @if( subResultText() !== '0' ) {
-      <span class="text-2xl text-gray-400"> {{ subResultText() }} {{ lastOperator() }} </span>
+      <span test-id="subResultText" class="text-2xl text-gray-400"> {{ subResultText() }} {{ lastOperator() }} </span>
       <br>
     }
 
-    <span> {{ resultText() }} </span>
+    <span test-id="result-text">{{ resultText() }}</span>
   </div>
 </div>
 <div class="w-full bg-linear-to-b from-indigo-400 to-indigo-500">

@@ -13,4 +13,8 @@
 - Learn how to call service and variables.
 - Learn how to create a vi.SpyOn
 - Learn how to use Mock and override a component.
-- Learn how to check test coverage and create a report.
+- Learn how to test visual effects and projected content
+- Learn how to mock a service for tests.
+- Learn how to check if method is called.
+- Learn how to handle keyboard events.
+- Learn how to test if method is called and pressing the button in test.
